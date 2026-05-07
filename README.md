@@ -23,12 +23,13 @@ Open PowerShell and run:
 
 ```powershell
 winget install Gyan.FFmpeg
+```
 
 Reload your IDE and check if properly installed:
 
 ```powershell
 ffmpeg -version
-
+```
 ---
 
 ## Target Format for Sony USB Playback
