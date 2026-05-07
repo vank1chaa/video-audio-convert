@@ -7,6 +7,28 @@ It covers two common problems:
 1. **1080p video does not play from USB**
 2. **Subtitles need to be transferred from the original MKV**
 
+## Prerequisites
+
+Before starting, make sure you have the following:
+
+- The original movie file, usually `.mkv`
+- FFmpeg installed and available from PowerShell
+- FFprobe available — included with FFmpeg
+- A USB flash drive formatted in a format your Sony player can read
+- Optional: VLC Media Player for testing playback and subtitles on the PC
+
+### Install FFmpeg on Windows
+
+Open PowerShell and run:
+
+```powershell
+winget install Gyan.FFmpeg
+
+Reload your IDE and check if properly installed:
+
+```powershell
+ffmpeg -version
+
 ---
 
 ## Target Format for Sony USB Playback
