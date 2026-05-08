@@ -1,4 +1,4 @@
-# Sony BDP-S1700/K USB Movie Fix Guide
+# Sony Blu-Ray Player USB Movie Fix (tested on BDP-S1700/K)
 
 This guide explains how to convert movie files so they play properly from a USB flash drive on a **Sony BDP-S1700/K Blu-ray player**.
 
